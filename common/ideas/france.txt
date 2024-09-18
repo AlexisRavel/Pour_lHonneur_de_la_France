@@ -2,15 +2,59 @@ ideas = {
 
 	country = {
 
-		FRA_pour_l_honneur{
+		FRA_pour_l_honneur = {
 			allowed = {
 				original_tag = FRA
 				always = no
 			}
 			modifier {
 				army_core_attack_factor = 0.05
-				army_core_defence_factor = 0.15
+				army_core_defence_factor = 0.2
 				army_morale = 10
+			}
+		}
+
+		FRA_fortifier_nos_positions = {
+			allowed = {
+				original_tag = FRA
+				always = no
+			}
+			modifier {
+				civilian_factory_use = 20
+			}
+		}
+
+		FRA_economie_coloniale = {
+			allowed = {
+				original_tag = FRA
+				always = no
+			}
+			modifier {
+				conscription_factor = 0.05
+				production_speed_buildings_factor = -0.05
+				production_speed_arms_factory_factor = -0.05
+			}
+		}
+
+		FRA_economie_coloniale_solide = {
+			allowed = {
+				original_tag = FRA
+				always = no
+			}
+			modifier {
+				conscription_factor = 0.05
+				production_speed_buildings_factor = 0.05
+				production_speed_arms_factory_factor = 0.05
+			}
+		}
+
+		FRA_mobilisation_coloniale = {
+			allowed = {
+				original_tag = FRA
+				always = no
+			}
+			modifier {
+				weekly_manpower = 5000
 			}
 		}
 

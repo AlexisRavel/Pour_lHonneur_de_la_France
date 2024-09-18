@@ -3,9 +3,37 @@
  FRA_l_honneur_de_la_France_desc:0 "Le général Weygand à la tête de nos armées, c'est l'âme de Foch qui inspire la résitance et exalte la volonté de vaincre."
 
  FRA_pour_l_honneur:0 "Pour l'Honneur !"
+ FRA_fortifier_nos_positions:0 "Fortifier nos positions"
 
  FRA_reduit_breton:0 "Réduit breton"
  FRA_reduit_breton_desc:0 "Le gouvernement a décidé de faire de la bretagne un fort imprenable."
+
+ FRA_se_tourner_vers_l_empire:0 "Se tourner vers l'Empire"
+ FRA_se_tourner_vers_l_empire_desc:0 "Pour survivre, la France devra compter sur ses colonies"
+
+ FRA_economie_coloniale:0 "Économie coloniale"
+
+ FRA_mobiliser_les_colonies:0 "Mobiliser les colonies"
+ FRA_mobiliser_les_colonies_desc:0 "Nos rangs devront être compléter par des soldats de toute la France"
+
+ FRA_mobilisation_coloniale:0 "Mobilisation coloniale"
+
+ FRA_industrialiser_l_algerie:0 "Industrialiser l'Algérie"
+ FRA_industrialiser_l_algerie_desc:0 "Industrialiser l'Algérie"
+
+ FRA_industrialiser_le_maroc:0 "Industrialiser le Maroc"
+ FRA_industrialiser_le_maroc_desc:0 "Industrialiser le Maroc"
+
+ FRA_industrialiser_l_indochine:0 "Industrialiser l'Indochine"
+ FRA_industrialiser_l_indochine_desc:0 "Industrialiser l'Indochine"
+
+ FRA_industrialiser_la_somalie:0 "Industrialiser la Somalie"
+ FRA_industrialiser_la_somalie_desc:0 "Industrialiser la Somalie"
+
+ FRA_un_empire_industriel:0 "Un Empire industriel"
+ FRA_un_empire_industriel_desc:0 "L'Empire tourne désormais à plein régime"
+
+ FRA_economie_coloniale_solide:0 "Économie coloniale solide"
 
  FRA_ligne_weygand:0 "La ligne Weygand"
  FRA_ligne_weygand_desc:0 "Le généralissime Weygand ne croit pas au réduit breton, il garde confiance en son armée pour stopper les allemands."
